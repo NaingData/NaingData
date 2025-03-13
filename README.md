@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="kazumapromax@gmail.com">
+  <a href="yelinnaing.job@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="www.linkedin.com/in/ye-lin-naing-73a080297" target="_blank">
